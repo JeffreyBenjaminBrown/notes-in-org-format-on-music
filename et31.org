@@ -1,0 +1,5 @@
+* scale concepts
+** two stacks of fifths
+* nice chords
+** 17_ 23_ 0 8 14
+This is symmetric -- -14 -8 0 8 14.
