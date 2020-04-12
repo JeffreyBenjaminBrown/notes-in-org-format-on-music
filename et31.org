@@ -1,5 +1,26 @@
 * scale concepts
 ** two stacks of fifths
 * nice chords
+** 0 25 40
+** wide whole tone: 0 6 11 17 22 28
+subset: 0 11 17 28
 ** 17_ 23_ 0 8 14
 This is symmetric -- -14 -8 0 8 14.
+** using 0 11 22 as an extension
+0 18 25+[0,11,22] = [0,18,25,5',16']
+  In 12ET that would be a 7#11.
+  Works with a 3rd of 7 (m3) or 10 (M3).
+** (0 18 25) + (7' + (0 8 18 28))
+The second chord is a min major 7th starting at 7,
+that is a short minor 3rd above the octave of the power-7 chord below.
+(where a power-7 chord is 0 18 25, i.e. it's got harmonics 3 and 7).
+** maj 7 under a min 7
+In 12et it would be:
+  (0 7  11)  (3 7  10)'
+In 31et:
+  (0 18 28)  (7 18 25)'
+* nice changes
+** two minor chords, descending 4/31 from one to the other
+but holding the fifth degree (18/31) from the first,
+and between them play the dominant (major starting at 18) chord of the first.
+
